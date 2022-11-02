@@ -33,6 +33,6 @@ optional arguments:
 Projeto da unidade curricular de Programação de Sistemas Robóticos.
 Trabalho realizado por:
 
-- Beatriz Cruzeirio
+- Beatriz Cruzeiro
 - Carlos Gabriel Cardoso
 - Joáo Cruz
