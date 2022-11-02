@@ -2,7 +2,7 @@
 
 ## AR Paint
 
-This program allows you to use an object of your choice as a brush and paint on a white canvas by moving the object in the air as it is being recorded by your webcam. You may choose to use the video stream mode, which lets you paint on the live video of your camera, as opposed to a white canvas, you can mirror your videocapture and even pint a picture so the program can evaluate it!
+This program allows you to use an object of your choice as a brush and paint on a white canvas by moving the object in the air as it is being recorded by your webcam. You may choose to use the video stream mode, which lets you paint on the live video of your camera, as opposed to a white canvas, you can mirror your videocapture and even paint a picture so the program can evaluate it!
 
 To use this program, you need to create a threshold.json file using the program, color_segmenter.
 
