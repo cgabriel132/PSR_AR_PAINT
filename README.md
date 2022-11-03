@@ -3,9 +3,9 @@
 Projeto da unidade curricular de Programação de Sistemas Robóticos (Grupo 13 - P2).  
 Trabalho realizado por:  
 
-- Beatriz Cruzeiro
-- Carlos Gabriel Cardoso
-- Joáo Cruz
+- Beatriz Cruzeiro 97934
+- Carlos Gabriel Cardoso 98504
+- Joáo Cruz 99980
 
 ## AR Paint
 
