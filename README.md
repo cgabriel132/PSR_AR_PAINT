@@ -28,6 +28,11 @@ optional arguments:
                         numbers
 
 ```
+#### Extras:
+. Painting with other colors
+. Being able to erase the paint
+. Thicker/Thinner brush
+. Mirror video capture
 
 ***
 Projeto da unidade curricular de Programação de Sistemas Robóticos.
