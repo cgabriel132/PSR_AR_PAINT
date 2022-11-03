@@ -36,6 +36,7 @@ optional arguments:
 
 ```
 #### Extras:
+. A menu showing all the shortcuts  
 . Painting with other colors  
 . Being able to erase the paint  
 . Thicker/Thinner brush  
