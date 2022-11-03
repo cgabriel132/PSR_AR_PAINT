@@ -5,7 +5,7 @@ Trabalho realizado por:
 
 - Beatriz Cruzeiro 97934
 - Carlos Gabriel Cardoso 98504
-- Joáo Cruz 99980
+- João Cruz 99980
 
 ## AR Paint
 
