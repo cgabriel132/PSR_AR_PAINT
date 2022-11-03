@@ -1,4 +1,11 @@
 # PSR Ar_Paint
+***
+Projeto da unidade curricular de Programação de Sistemas Robóticos (Grupo 13 - P2).
+Trabalho realizado por:
+
+- Beatriz Cruzeiro
+- Carlos Gabriel Cardoso
+- Joáo Cruz
 
 ## AR Paint
 
@@ -33,11 +40,3 @@ optional arguments:
 . Being able to erase the paint  
 . Thicker/Thinner brush  
 . Mirror video capture  
-
-***
-Projeto da unidade curricular de Programação de Sistemas Robóticos.
-Trabalho realizado por:
-
-- Beatriz Cruzeiro
-- Carlos Gabriel Cardoso
-- Joáo Cruz
