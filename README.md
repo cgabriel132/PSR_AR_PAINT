@@ -1,6 +1,6 @@
 # PSR Ar_Paint
 ***
-Projeto da unidade curricular de Programação de Sistemas Robóticos (Grupo 13 - P2).
+Projeto da unidade curricular de Programação de Sistemas Robóticos (Grupo 13 - P2).  
 Trabalho realizado por:  
 
 - Beatriz Cruzeiro
