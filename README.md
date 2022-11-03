@@ -40,3 +40,4 @@ optional arguments:
 . Being able to erase the paint  
 . Thicker/Thinner brush  
 . Mirror video capture  
+. Paint with your mouse  
